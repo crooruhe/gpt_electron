@@ -1,0 +1,15 @@
+{
+  "name": "desktopchatgpt",
+  "version": "1.0.0",
+  "description": "A desktop chatGPT client to avoid being forced to find the tab",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
